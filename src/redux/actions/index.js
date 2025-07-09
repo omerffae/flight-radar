@@ -39,6 +39,8 @@ export const getDetail = createAsyncThunk("detail/getDetails", async (flightId) 
   // api isteği at
   const res = await api.get("/flights/detail", { params });
 
+  
+
   // aksiyonun payload'ını return et
   return res.data;
 });

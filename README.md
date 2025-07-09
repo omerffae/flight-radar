@@ -19,6 +19,8 @@
 
 A modern web application that allows users to track and monitor flights in real-time. Built with React and Redux, this application provides both map and list views of flight data.
 
+![Proje Görseli](/public/flight_radar.gif)  
+
 ## 🚀 Features
 
 - Real-time flight tracking
